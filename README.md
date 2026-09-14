@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello There, I'm Mochamad Kusuma Abidin<br>(AKA Abidin / MKusumaA)<br>About Me:<br>I am an undergraduate Information Systems student at the Faculty of Computer Science, Narotama University. Passionate about software architecture, business alignment, and desktop technology, currently deep-diving into native application development and systems engineering.<br><br>I'm currently working on: Native Enterprise Apps & Architecture<br>How to reach me: Mochamad Kusuma Abidin (Link Linkedin? KAPAN2 ajah Malu)<br>I'm currently learning: ERP Systems, Python, and Rust/Tauri v2<br>Fun fact: I enjoy music, movies, tennis, and playing Valorant
+Hello There, I'm Mochamad Kusuma Abidin (AKA Abidin / MKusumaA)<br> <br>I am an undergraduate Information Systems student at the Faculty of Computer Science, Narotama University. Passionate about software architecture, business alignment, and desktop technology, currently deep-diving into native application development and systems engineering.<br><br>I'm currently working on: Native Enterprise Apps & Architecture<br>How to reach me: Mochamad Kusuma Abidin (Link Linkedin? KAPAN2 ajah Malu)<br>I'm currently learning: ERP Systems, Python, and Rust/Tauri v2<br>Fun fact: I enjoy music, movies, tennis, and playing Valorant
 
 
 ## 🌐 Socials:
